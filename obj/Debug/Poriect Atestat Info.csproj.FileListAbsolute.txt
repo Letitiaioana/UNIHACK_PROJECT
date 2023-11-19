@@ -1,0 +1,51 @@
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\bin\Debug\Poriect Atestat Info.exe.config
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\bin\Debug\Poriect Atestat Info.exe
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\bin\Debug\Poriect Atestat Info.pdb
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.csproj.AssemblyReference.cache
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.csproj.SuggestedBindingRedirects.cache
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Form_start.resources
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Properties.Resources.resources
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.csproj.GenerateResource.cache
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.csproj.CoreCompileInputs.cache
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.exe
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.pdb
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Principal_Menu.resources
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Form_Test.resources
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Form_mapa.resources
+C:\Users\sorin\Desktop\proiect C# draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Model_Mapa_butoane.resources
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\bin\Debug\Poriect Atestat Info.exe.config
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\bin\Debug\Poriect Atestat Info.exe
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\bin\Debug\Poriect Atestat Info.pdb
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.csproj.AssemblyReference.cache
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.csproj.SuggestedBindingRedirects.cache
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Form_start.resources
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Principal_Menu.resources
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Form_Test.resources
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Form_mapa.resources
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Model_Mapa_butoane.resources
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Properties.Resources.resources
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.csproj.GenerateResource.cache
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.csproj.CoreCompileInputs.cache
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.exe
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.pdb
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Form5.resources
+C:\Users\theod\OneDrive\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Form6.resources
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\bin\Debug\Poriect Atestat Info.exe.config
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\bin\Debug\Poriect Atestat Info.exe
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\bin\Debug\Poriect Atestat Info.pdb
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.csproj.AssemblyReference.cache
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.csproj.SuggestedBindingRedirects.cache
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info._7YearsWar.resources
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Form_start.resources
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Principal_Menu.resources
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Form_Test.resources
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Form_mapa.resources
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.ColdWar.resources
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Napoleon.resources
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.UnificareaGermaniei.resources
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Model_Mapa_butoane.resources
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Properties.Resources.resources
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.csproj.GenerateResource.cache
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.csproj.CoreCompileInputs.cache
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.exe
+C:\Users\sorin\Desktop\proiect final draghici\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.pdb

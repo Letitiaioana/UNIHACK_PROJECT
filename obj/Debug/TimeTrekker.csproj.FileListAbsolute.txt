@@ -1,0 +1,56 @@
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\bin\Debug\Poriect Atestat Info.exe.config
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\bin\Debug\Poriect Atestat Info.exe
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\bin\Debug\Poriect Atestat Info.pdb
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\TimeTrekker.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\TimeTrekker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info._7YearsWar.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Form_start.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Principal_Menu.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Form_Test.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Form_mapa.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.ColdWar.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Napoleon.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.UnificareaGermaniei.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect_Atestat_Info.Model_Mapa_butoane.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\TimeTrekker.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\TimeTrekker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.exe
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\Poriect Atestat Info.pdb
+C:\Users\Administrator\Desktop\Poriect Atestat Info\Poriect Atestat Info\obj\Debug\TimeTrekker.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\bin\Debug\Poriect Atestat Info.exe.config
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\bin\Debug\Poriect Atestat Info.exe
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\bin\Debug\Poriect Atestat Info.pdb
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\TimeTrekker.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\TimeTrekker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\TimeTrekker.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\TimeTrekker.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\TimeTrekker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\Poriect Atestat Info.exe
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\Poriect Atestat Info.pdb
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\TimeTrekker.Form_Test.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\TimeTrekker._7YearsWar.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\TimeTrekker.Form_start.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\TimeTrekker.Principal_Menu.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\TimeTrekker.Form_mapa.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\TimeTrekker.ColdWar.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\TimeTrekker.Napoleon.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\TimeTrekker.UnificareaGermaniei.resources
+C:\Users\Administrator\Desktop\Poriect Atestat Info\TimeTrekker\obj\Debug\TimeTrekker.Model_Mapa_butoane.resources
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\bin\Debug\Poriect Atestat Info.exe.config
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\bin\Debug\Poriect Atestat Info.exe
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\bin\Debug\Poriect Atestat Info.pdb
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\TimeTrekker.csproj.AssemblyReference.cache
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\TimeTrekker._7YearsWar.resources
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\TimeTrekker.Form_start.resources
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\TimeTrekker.Principal_Menu.resources
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\TimeTrekker.Form_Test.resources
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\TimeTrekker.Form_mapa.resources
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\TimeTrekker.ColdWar.resources
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\TimeTrekker.Napoleon.resources
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\TimeTrekker.UnificareaGermaniei.resources
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\TimeTrekker.Model_Mapa_butoane.resources
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\TimeTrekker.Properties.Resources.resources
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\TimeTrekker.csproj.GenerateResource.cache
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\TimeTrekker.csproj.CoreCompileInputs.cache
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\Poriect Atestat Info.exe
+C:\Users\Letitia\OneDrive\Desktop\time trekker\TimeTrekker\obj\Debug\Poriect Atestat Info.pdb
